@@ -14,4 +14,8 @@ https://github.com/NuAxis/ServiceNow_Docs/blob/master/Inventory_Scanner_Install.
 
 **Full Step by Step Build Guide for the Application**
 
-https://github.com/NuAxis/ServiceNow_Docs/blob/master/Inventory_Scanner_Install.pdf
+https://github.com/NuAxis/ServiceNow_Docs/blob/master/Inventory_Scanner_Build.pdf
+
+**Video of the Full Step by Step Build Guide**
+
+https://github.com/NuAxis/ServiceNow_Docs/blob/master/Inventory_Scanner_Build.pdf
