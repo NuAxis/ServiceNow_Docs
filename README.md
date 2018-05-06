@@ -8,7 +8,7 @@ This is from the ServiceNow Knowledge18 CreatorCon CCB0793: Flow Designer Enabli
 
 **Fork and GitHub Install Instructions**
 
-https://github.com/NuAxis/ServiceNow_Inventory_Scanner
+https://github.com/NuAxis/ServiceNow_Inventory_Scanner (Repository to Fork)
 
 https://github.com/NuAxis/ServiceNow_Docs/blob/master/Inventory_Scanner_Install.pdf
 
