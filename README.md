@@ -20,6 +20,7 @@ https://github.com/NuAxis/ServiceNow_Docs/blob/master/Mobile_Audit_Scanner_Build
 
 https://youtu.be/6VXZKtkpNGg
 
+---
 
 **ServiceNow_Inventory_Scanner**
 
