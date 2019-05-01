@@ -10,15 +10,15 @@ Developing a mobile phone application for your company's yearly physical invento
 
 https://github.com/NuAxis/ServiceNow-Mobile-Audit-Scanner (Repository to Fork)
 
-https://github.com/NuAxis/ServiceNow_Docs/blob/master/ServiceNow%20Mobile%20Audit%20Scanner%20Install.pdf
+https://github.com/NuAxis/ServiceNow_Docs/blob/master/Mobile_Audit_Scanner_Install.pdf
 
 **Full Step by Step Build Guide for the Application**
 
-https://github.com/NuAxis/ServiceNow_Docs/blob/master/Inventory_Scanner_Build.pdf
+https://github.com/NuAxis/ServiceNow_Docs/blob/master/Mobile_Audit_Scanner_Build.pdf
 
 **Video of the Full Step by Step Build Guide**
 
-https://youtu.be/mRJQyr-Mlk4
+https://youtu.be/6VXZKtkpNGg
 
 
 **ServiceNow_Inventory_Scanner**
